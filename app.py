@@ -43,7 +43,6 @@ input_data = {}
 numeric_fields = {
     'Age': (18, 60, 30),
     'DistanceFromHome': (0, 100, 5),
-    'MonthlyIncome': (0, 100000, 5000),
     'NumCompaniesWorked': (0, 50, 1),
     'PercentSalaryHike': (0, 100, 10),
     'TotalWorkingYears': (0, 50, 5),
